@@ -886,7 +886,10 @@ footer p {
 # OUTPUT:
 ![image](https://github.com/user-attachments/assets/6d1aef93-a93b-419d-9e36-d0c1bd33a451)
 ![image](https://github.com/user-attachments/assets/990ef768-2429-40b3-9773-3c9f6636d3f5)
-![image](https://github.com/user-attachments/assets/dee9fea1-0253-43a7-afdd-a89a0eb4ea30)
+![image](https://github.com/user-attachments/assets/32e0640d-2ab9-49af-917d-15eea20b43ff)
+
+![image](https://github.com/user-attachments/assets/14b9e4d1-e7ce-43a0-90a2-3e8fb2dd8bee)
+
 ![image](https://github.com/user-attachments/assets/9eef5d88-3860-4a6b-8fc1-3d8a0b1d2848)
 ![image](https://github.com/user-attachments/assets/1f58cb11-989d-443b-adcf-1e33eafa933c)
 ![image](https://github.com/user-attachments/assets/bdfd288b-f01e-4265-b21c-a9d0e85f9c04)
